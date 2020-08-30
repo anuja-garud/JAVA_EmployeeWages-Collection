@@ -1,9 +1,9 @@
 public class EmpWageBuliderobj{
 
 	private String companyName;
-	private  int empRate;
-	private  int numofWorkingDays;
-	private  int maxHrsInMonth;
+	private int empRate;
+	private int numofWorkingDays;
+	private int maxHrsInMonth;
 	private int totalEmpWage;
 
 
